@@ -9,4 +9,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello, this is the memior of two friends using cool computers. :) see you l8tr.
+Hello, this is the memoir of two friends using cool computers. :) see you l8tr.
