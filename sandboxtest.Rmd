@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hello, this is the memior of two friends using cool computers. :) see you l8tr.
+
+This is SO COOL
